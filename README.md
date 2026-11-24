@@ -3,7 +3,7 @@
 AI-assisted FinTech Transaction & Risk Compliance Dashboard built with **Nuxt 3**, **Vue 3 Composition API (`<script setup>`)**, **Nitro Server Routes**, **TypeScript (`strict`)**, **Tailwind CSS**, **Zod**, **Vercel AI SDK + Gemini**, and **Vitest**.
 
 > Part of the **FinGuard AI Framework Trio**:
-> - [Next.js Edition](https://github.com/emrahtepe/finguard-ai)
+> - [Next.js Edition](https://github.com/emrahtepe/finguard-ai-next)
 > - **Nuxt 3 Edition** *(this repo)*
 > - [Angular Edition](https://github.com/emrahtepe/finguard-ai-angular)
 
