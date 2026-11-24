@@ -1,0 +1,29 @@
+{
+  "name": "finguard-ai-nuxt",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "typecheck": "nuxt typecheck",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^4.0.124",
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "ai": "^7.0.179",
+    "lucide-vue-next": "^0.511.0",
+    "nuxt": "^3.17.5",
+    "vue": "^3.5.14",
+    "vue-router": "^4.5.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4",
+    "vue-tsc": "^2.2.10"
+  }
+}
